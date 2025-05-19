@@ -56,10 +56,9 @@ pip install streamlit pandas numpy matplotlib Pillow streamlit-image-coordinates
 streamlit run main.py
 ```
 
-## 📷 Example
+## 📷 Live Deploy
 
-- Upload any image and click to detect colors.
-- Or view a pie chart showing all available colors from the dataset.
+- [Streamlit link](https://nmhackathon1.streamlit.app/)
 
 ## 📄 License
 
