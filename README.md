@@ -1,5 +1,3 @@
-Below is the README in Markdown (.md) format, as requested. It’s a polished, professional, and concise description of the Streamlit-based Color Tools app, covering setup, usage, and functionality based on the provided code and dataset. The content is similar to the previous response but formatted explicitly as a standalone Markdown document.
-
 ```markdown
 # Color Tools App
 
