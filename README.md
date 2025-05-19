@@ -30,7 +30,7 @@ A Streamlit web application that allows users to:
 
 ## 🛠️ Requirements
 
-- Python 3.7+
+- `Python 3.7+`
 - `streamlit`
 - `pandas`
 - `numpy`
